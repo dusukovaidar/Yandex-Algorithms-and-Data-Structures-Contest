@@ -4,7 +4,7 @@
 
 **1) Stacks**
 
-**2) Queues, Decks and Priority Queues**
+**2) Queues, Deques and Priority Queues**
 
 **3) Dynamic programming with one parameter**
 
