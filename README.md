@@ -6,12 +6,12 @@
 
 **2) Queues, Decks and Priority Queues**
 
-3) Dynamic programming with one parameter
+**3) Dynamic programming with one parameter**
 
-4) Dynamic programming with two parameters
+**4) Dynamic programming with two parameters**
 
-5) Traversal of graphs in depth
+**5) Traversal of graphs in depth**
 
-6) Breadth traversal of graphs
+**6) Breadth traversal of graphs**
 
-7) Final sprint
+**7) Final sprint**
